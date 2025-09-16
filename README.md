@@ -2,20 +2,12 @@
 
 Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
----
-
 ![Hello World](https://img.shields.io/badge/Hello-World-blue?logo=github)
 [![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=social)](https://github.com/m4ntonio)
 [![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=social)](https://github.com/m4ntonio)
 ![Beer](https://img.shields.io/badge/Powered%20by-Beer-yellow)
 
 ---
-
-## Meus projetos
-- [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
-- [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
-- Projetos de contratos inteligentes e NFTs usando ERC1155 e ERC721
-- Experimentos com IA e automação em Python
 
   ## 🧰 Meus Projetos
 
@@ -24,11 +16,11 @@ Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pro
 * [CP01 - Lista de Exercícios](https://github.com/m4ntonio/python-exercicios-cp01) - CP01
 * [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
 
-### 🎨 NFTs / Blockchain
+### NFTs / Blockchain
 * [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
 * [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
 
-### 💡 Outros Projetos
+### Outros Projetos
 * [PassGenerator](https://github.com/m4ntonio/PassGenerator) - Gerador de senhas em Python
 * [7DaysOfCode](https://github.com/m4ntonio/7DaysOfCode) - 7DaysOfCode
 
