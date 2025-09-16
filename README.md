@@ -1,6 +1,6 @@
 # Olá, eu sou o Mario Antonio 👋
 
-Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
+Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
 ![Hello World](https://img.shields.io/badge/Hello-World-blue?logo=github)
 [![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=social)](https://github.com/m4ntonio)
@@ -13,7 +13,7 @@ Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pro
 
 ### FIAP
 * [1TIAPR](https://github.com/m4ntonio/1TIAPR) - Computational Thinking with Python
-* [CP01 - Lista de Exercícios](https://github.com/m4ntonio/python-exercicios-cp01) - CP01
+* [CP01 - Lista de Exercícios](https://github.com/m4ntonio/CP01_Python) - CP01
 * [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
 
 ### NFTs / Blockchain
