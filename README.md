@@ -4,19 +4,10 @@ Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pro
 
 ---
 
-## Sobre mim
-- 📍 São Paulo, Brasil  
-- 💼 Trabalho no mercado financeiro  
-- 💻 Apaixonado por programação e tecnologia  
-- 🎬 Curto filmes de ficção  
-- 🎯 Sempre buscando aprender mais  
-
----
-
-## Minhas tecnologias favoritas
-- **Linguagens:** Python, JavaScript, Solidity  
-- **Ferramentas:** Git, VS Code, Docker  
-- **Blockchain & NFTs:** ERC1155, ERC721, Smart Contracts
+![Hello World](https://img.shields.io/badge/Hello-World-blue?logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=social)](https://github.com/m4ntonio)
+[![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=social)](https://github.com/m4ntonio)
+![Beer](https://img.shields.io/badge/Powered%20by-Beer-yellow)
 
 ---
 
@@ -24,7 +15,22 @@ Bas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pro
 - [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
 - [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
 - Projetos de contratos inteligentes e NFTs usando ERC1155 e ERC721
-- Experimentos com IA e automação em Python  
+- Experimentos com IA e automação em Python
+
+  ## 🧰 Meus Projetos
+
+### FIAP
+* [1TIAPR](https://github.com/m4ntonio/1TIAPR) - Computational Thinking with Python
+* [CP01 - Lista de Exercícios](https://github.com/m4ntonio/python-exercicios-cp01) - CP01
+* [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
+
+### 🎨 NFTs / Blockchain
+* [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
+* [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
+
+### 💡 Outros Projetos
+* [PassGenerator](https://github.com/m4ntonio/PassGenerator) - Gerador de senhas em Python
+* [7DaysOfCode](https://github.com/m4ntonio/7DaysOfCode) - 7DaysOfCode
 
 ---
 
