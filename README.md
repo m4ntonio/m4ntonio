@@ -9,7 +9,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 
 ---
 
-  ## 🧰 Meus Projetos
+  ## Meus Projetos
 
 ### FIAP
 * [1TIAPR](https://github.com/m4ntonio/1TIAPR) - Computational Thinking with Python
