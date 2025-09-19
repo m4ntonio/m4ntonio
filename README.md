@@ -23,6 +23,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ### Outros Projetos
 * [PassGenerator](https://github.com/m4ntonio/PassGenerator) - Gerador de senhas em Python
 * [7DaysOfCode](https://github.com/m4ntonio/7DaysOfCode) - 7DaysOfCode
+* [Basic Python Programs](https://github.com/m4ntonio/Basic_Python_Programs) - 140 programas básicos em Python
 
 ---
 
