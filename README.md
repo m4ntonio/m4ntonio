@@ -13,7 +13,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 
 ### FIAP
 * [1TIAPR](https://github.com/m4ntonio/1TIAPR) - Computational Thinking with Python
-* [CP01 - Lista de Exercícios](https://github.com/m4ntonio/CP01_Python) - Checkpoint 01 - Python - Lista de Exercícios
+* [CP01_Python](https://github.com/m4ntonio/CP01_Python) - Checkpoint 01 - Python - Lista de Exercícios
 * [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
 
 ### NFTs / Blockchain
