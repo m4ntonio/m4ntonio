@@ -17,6 +17,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 * [CP01_Python](https://github.com/m4ntonio/CP01_Python) - Checkpoint 01 - Python - Lista de Exercícios
 * [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
 * [Perceptron](https://github.com/m4ntonio/perceptron) - Perceptron simples em Python
+* [1TIAPR_29set](https://github.com/m4ntonio/1tiapr_29set) - Operador && (AND) em C++
 
 ### NFTs / Blockchain
 * [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
