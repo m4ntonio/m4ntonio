@@ -1,4 +1,4 @@
-# Olá, eu sou o ᴍᴀʀɪᴏ ᴀɴᴛᴏɴɪᴏ 👋🏼
+# Olá, eu sou o ꂵꋬꋪ꒐ꄲ ꋬꋊ꓄ꄲꋊ꒐ꄲ 👋🏼
 
 Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
