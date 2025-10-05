@@ -1,4 +1,4 @@
-# Olá, eu sou o Mario Antonio 👋🏼
+# Olá, eu sou o ᴍᴀʀɪᴏ ᴀɴᴛᴏɴɪᴏ 👋🏼
 
 Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
