@@ -38,7 +38,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ---
 
 ## Estatísticas GitHub
-![Mario Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=m4ntonio&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4ntonio&theme=icegray&border_radius=20&locale=pt_BR)](https://git.io/streak-stats)
 
 
 <!--
