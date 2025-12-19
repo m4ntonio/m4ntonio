@@ -39,7 +39,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ---
 
 ## Estatísticas GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=m4ntonio&theme=icegray&hide_border=true&border_radius=20&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4ntonio&theme=icegray&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 
 <!--
