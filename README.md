@@ -39,7 +39,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ---
 
 ## Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4ntonio&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/m4ntonio/m4ntonio/main/profile-summary-card-output/radical/0-profile-details.svg)
 
 <!--
 **m4ntonio/m4ntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
