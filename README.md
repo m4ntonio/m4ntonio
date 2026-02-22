@@ -25,7 +25,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 * [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
 
 ### Outros Projetos
-* [I2A2 - Agentes Autônomos com Redes Generativas](https://github.com/m4ntonio/agent301de) - Agent 301 DE — Sistema de Extração de Dados de NF-e
+* [I2A2 - Agentes Autônomos com Redes Generativas](https://github.com/m4ntonio/agent301de) - Agent 301 DE - Sistema de Extração de Dados de NF-e
 * [PassGenerator](https://github.com/m4ntonio/PassGenerator) - Gerador de senhas em Python
 * [7DaysOfCode](https://github.com/m4ntonio/7DaysOfCode) - 7DaysOfCode
 * [Basic_Python_Programs](https://github.com/m4ntonio/Basic_Python_Programs) - 140 programas básicos em Python
