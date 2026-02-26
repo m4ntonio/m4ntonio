@@ -6,7 +6,7 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ![Localização](https://img.shields.io/badge/📌-São_Paulo_SP-blue?logo=mapir&logoColor=white&labelColor=white)
 [![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=social)](https://github.com/m4ntonio?tab=repositories)
 [![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=social)](https://github.com/m4ntonio?tab=followers)
-![GitHub last commit](https://img.shields.io/github/last-commit/m4ntonio/m4ntonio?cache=false)
+![GitHub last commit](https://img.shields.io/github/last-commit/m4ntonio/m4ntonio)
 ![Beer](https://img.shields.io/badge/Powered%20by-Beer-yellow)
 
 ---
