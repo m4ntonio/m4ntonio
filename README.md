@@ -3,8 +3,7 @@
 Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
 ![Hello World](https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=github)
-![I am](https://img.shields.io/badge/I%20am-m4ntonio-purple?style=for-the-badge)
-![Localização](https://img.shields.io/badge/📌-São_Paulo_SP-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Localização](https://img.shields.io/badge/-São_Paulo_SP-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=for-the-badge)](https://github.com/m4ntonio?tab=repositories)
 [![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=for-the-badge)](https://github.com/m4ntonio?tab=followers)
 ![Beer](https://img.shields.io/badge/Powered%20by-Beer-green?style=for-the-badge)
