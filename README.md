@@ -1,4 +1,7 @@
-# Olá, eu sou o ꂵꋬꋪ꒐ꄲ ꋬꋊ꓄ꄲꋊ꒐ꄲ 👋🏼
+```bash
+m4ntonio@github:~$ hi
+welcome aboard.
+```
 
 Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
 
