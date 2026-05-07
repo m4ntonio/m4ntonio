@@ -41,7 +41,29 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 ## Estatísticas GitHub
 ![](https://raw.githubusercontent.com/m4ntonio/m4ntonio/main/github-metrics.svg)
 
-![Banner](assets/hjwgrxhjwgrxhjwg.png)
+# the end of the road...
+## ...or is it?
+
+<p align="center">
+  <img 
+    src="assets/hjwgrxhjwgrxhjwg.png"
+    alt="Lost somewhere between galaxies and bad commits."
+  >
+</p>
+
+```bash
+m4ntonio@github:~$ whoami
+Cybersecurity student & Python developer
+
+m4ntonio@github:~$ pwd
+/universe/unknown_sector
+
+m4ntonio@github:~$ ps aux | grep sanity
+no process found
+
+m4ntonio@github:~$ echo $MISSION
+explore • build • break • learn
+```
 
 <!--
 **m4ntonio/m4ntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
