@@ -60,14 +60,14 @@ m4ntonio@github:~$ ls projects/FIAP
 [+] [DHT22](https://github.com/m4ntonio/DHT22)  
 [+] [Perceptron](https://github.com/m4ntonio/perceptron)
 
-```bash
+```
 m4ntonio@github:~$ ls projects/blockchain
 ```
 
 [+] [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29)  
 [+] [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16)
 
-```bash
+```
 m4ntonio@github:~$ ls projects/misc
 ```
 
