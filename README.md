@@ -1,51 +1,23 @@
 ```bash
-m4ntonio@github:~$ hi
-welcome aboard.
+m4ntonio@github:~$
+
+m4ntonio@github:~$ ./start_journey.sh
+
+[+] loading universe...
+[+] calibrating curiosity...
+[+] disabling common sense...
 ```
+![Hello World](https://img.shields.io/badge/Hello-World-00aa44?style=for-the-badge&logo=github)
+![Localização](https://img.shields.io/badge/-São_Paulo_SP-00aa44?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=for-the-badge&color=00aa44)](https://github.com/m4ntonio?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=for-the-badge&color=00aa44)](https://github.com/m4ntonio?tab=followers)
+![Beer](https://img.shields.io/badge/Powered%20by-Beer-00aa44?style=for-the-badge)
 
-Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com programação, blockchain, IA e outras tecnologias que curto explorar.
+```
+Welcome aboard. 
 
-![Hello World](https://img.shields.io/badge/Hello-World-blue?style=for-the-badge&logo=github)
-![Localização](https://img.shields.io/badge/-São_Paulo_SP-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
-[![GitHub stars](https://img.shields.io/github/stars/m4ntonio?style=for-the-badge)](https://github.com/m4ntonio?tab=repositories)
-[![GitHub followers](https://img.shields.io/github/followers/m4ntonio?style=for-the-badge)](https://github.com/m4ntonio?tab=followers)
-![Beer](https://img.shields.io/badge/Powered%20by-Beer-blue?style=for-the-badge)
-
----
-
-  ## Meus Projetos - index
-
-### FIAP
-* [1TIAPR](https://github.com/m4ntonio/1TIAPR) - Computational Thinking with Python
-* [CP01_Python](https://github.com/m4ntonio/CP01_Python) - Checkpoint 01 - Python - Lista de Exercícios
-* [DHT22](https://github.com/m4ntonio/DHT22) - AI Computer Systems & Sensors
-* [Perceptron](https://github.com/m4ntonio/perceptron) - Perceptron simples em Python
-* [1TIAPR_29set](https://github.com/m4ntonio/1tiapr_29set) - Operador && (AND) em C++
-
-### NFTs / Blockchain
-* [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29) – Coleção de NFTs Free Mint
-* [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16) – Coleção de NFTs Free Mint
-
-### Outros Projetos
-* [I2A2 - Agentes Autônomos com Redes Generativas](https://github.com/m4ntonio/agent301de) - Agent 301 DE - Sistema de Extração de Dados de NF-e
-* [PassGenerator](https://github.com/m4ntonio/PassGenerator) - Gerador de senhas em Python
-* [7DaysOfCode](https://github.com/m4ntonio/7DaysOfCode) - 7DaysOfCode
-* [Basic_Python_Programs](https://github.com/m4ntonio/Basic_Python_Programs) - 140 programas básicos em Python
-
----
-
-## Contato
-- ✉️ Email: m4ntonio@hotmail.com
-- 💬 Discord/Telegram: @m4ntonio 
-- 🔗 LinkedIn: [Mario Antonio](https://www.linkedin.com/in/m4ntonio)  
-
----
-
-## Estatísticas GitHub
-![](https://raw.githubusercontent.com/m4ntonio/m4ntonio/main/github-metrics.svg)
-
-# the end of the road...
-## ...or is it?
+> A place for projects, experiments and random tech adventures.
+```
 
 <p align="center">
   <img 
@@ -58,14 +30,63 @@ Boas-vindas ao meu perfil GitHub! Aqui compartilho projetos, experimentos com pr
 m4ntonio@github:~$ whoami
 Cybersecurity student & Python developer
 
-m4ntonio@github:~$ pwd
-/universe/unknown_sector
+m4ntonio@github:~$ cat about.txt
+> programming
+> linux
+> cybersecurity
+> blockchain
+> ai
+> automation
+
+m4ntonio@github:~$ echo $LOCATION
+São Paulo, BR
+
+m4ntonio@github:~$ uptime
+awake for too many hours
 
 m4ntonio@github:~$ ps aux | grep sanity
 no process found
 
 m4ntonio@github:~$ echo $MISSION
 explore • build • break • learn
+
+~/projects
+
+m4ntonio@github:~$ ls projects/FIAP
+```
+
+[+] [1TIAPR](https://github.com/m4ntonio/1TIAPR)  
+[+] [CP01_Python](https://github.com/m4ntonio/CP01_Python)  
+[+] [DHT22](https://github.com/m4ntonio/DHT22)  
+[+] [Perceptron](https://github.com/m4ntonio/perceptron)
+
+```bash
+m4ntonio@github:~$ ls projects/blockchain
+```
+
+[+] [Cool Moggies](https://basescan.org/token/0x4e673344f1B44d23961C299B649662CE34B01B29)  
+[+] [SCRIBBLYS](https://basescan.org/token/0xbc29120f02a35228ca200651568b7515f6607d16)
+
+```bash
+m4ntonio@github:~$ ls projects/misc
+```
+
+[+] [PassGenerator](https://github.com/m4ntonio/PassGenerator)  
+[+] [Basic_Python_Programs](https://github.com/m4ntonio/Basic_Python_Programs)
+
+```bash
+~/contact
+
+m4ntonio@github:~$ cat contact.txt
+
+Email      : m4ntonio@hotmail.com
+Discord    : @m4ntonio
+LinkedIn   : linkedin.com/in/m4ntonio
+
+m4ntonio@github:~$ exit
+
+logout
+connection to github closed.
 ```
 
 <!--
@@ -81,6 +102,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+███┐   ███┐ █████┐  ██████┐  ┌──────────────────────────────────────────────────────────┐
+████┐ ████│██┌──██┐██┌───██┐ |                                                          |
+██┌████┌██│███████│██│   ██│ |                                                          |
+██│└██┌┘██│██┌──██│██│   ██│ |                                                          |
+██│ └─┘ ██│██│  ██│└██████┌┘ |                                                          |
+└─┘     └─┘└─┘  └─┘ └─────┘  └──────────────────────────────────────────────────────────┘
 
 the end of the road
 ... or is it?
